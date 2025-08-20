@@ -1,0 +1,5 @@
+# 30DaysDSA
+DAY-1
+1.ADD TWO NUMBERS(Leetcode-2235)
+2.CONCATENATION OF ARRAY(Leetcode-1929)
+3.Move Zeros(Leetcode-238)
