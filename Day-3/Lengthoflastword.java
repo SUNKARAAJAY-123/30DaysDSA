@@ -1,4 +1,4 @@
-class RomantoInteger{
+class LengthofLastword {
     public int lengthOfLastWord(String s) {
         // Remove trailing spaces
         s = s.trim();
@@ -17,7 +17,7 @@ class RomantoInteger{
     }
 
     public static void main(String[] args) {
-        RomantoInteger sol = new RomantoInteger();
+        LengthofLastword sol = new LengthofLastword();
         
         System.out.println(sol.lengthOfLastWord("Hello World"));     // 5
         System.out.println(sol.lengthOfLastWord("   fly me   to   the moon  ")); // 4

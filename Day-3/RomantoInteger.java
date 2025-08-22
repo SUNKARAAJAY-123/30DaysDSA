@@ -1,6 +1,6 @@
 import java.util.*;
 
-class RomantoInteger{
+class Romantointeger {
     public int romanToInt(String s) {
         // Map of Roman numerals and their integer values
         Map<Character, Integer> map = new HashMap<>();
@@ -29,7 +29,7 @@ class RomantoInteger{
     }
 
     public static void main(String[] args) {
-        RomantoInteger sol = new RomantoInteger();
+        Romantointeger sol = new Romantointeger();
         
         System.out.println(sol.romanToInt("III"));     // 3
         System.out.println(sol.romanToInt("LVIII"));   // 58
