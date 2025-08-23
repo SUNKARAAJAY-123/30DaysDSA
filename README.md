@@ -9,3 +9,7 @@ DAY-1
  1.Palindrome-Number(Leetcode-9)
  2.Roman-to-Integer(Leetcode-13)
  3.length-of-last-word(Leetcode-58)
+ DAY-4
+ 1.Merge Sorted Array(Leetcode-88)
+ 2.Single Number(Leetcode-136)
+ 3.Intersection of Two Arrays II(Leetcode-350)
