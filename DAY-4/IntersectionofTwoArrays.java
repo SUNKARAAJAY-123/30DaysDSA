@@ -1,10 +1,5 @@
 import java.util.*;
-<<<<<<< HEAD
 class IntersectionofTwoArrays {
-=======
-
-class SolutioIntersectionofTwoArrays {
->>>>>>> 78cf07126ba5a988becc321d744a6f9a3023c32b
     public int[] intersect(int[] nums1, int[] nums2) {
         Map<Integer, Integer> map = new HashMap<>();
         List<Integer> result = new ArrayList<>();
@@ -32,11 +27,8 @@ class SolutioIntersectionofTwoArrays {
     }
 
     public static void main(String[] args) {
-<<<<<<< HEAD
+
         IntersectionofTwoArrays sol = new IntersectionofTwoArrays();
-=======
-        IntersectionofTwoArrays sol = new SolutioIntersectionofTwoArrays();
->>>>>>> 78cf07126ba5a988becc321d744a6f9a3023c32b
         
         int[] nums1 = {1,2,2,1};
         int[] nums2 = {2,2};
