@@ -12,8 +12,12 @@ DAY-1
  DAY-4
  1.Merge Sorted Array(Leetcode-88)
  2.Single Number(Leetcode-136)
+<<<<<<< HEAD
  3.Intersection of Two Arrays II(Leetcode-350)
  DAY-5
  1.Happy Number(Leetcode-202)
  2.Number of 1 Bits(Leetcode-191)
  3.Palindrome number(Leetcode-9)
+=======
+ 3.Intersection of Two Arrays II(Leetcode-350)
+>>>>>>> 78cf07126ba5a988becc321d744a6f9a3023c32b
