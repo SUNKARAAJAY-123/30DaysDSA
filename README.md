@@ -17,3 +17,7 @@ DAY-1
  1.Happy Number(Leetcode-202)
  2.Number of 1 Bits(Leetcode-191)
  3.Palindrome number(Leetcode-9)
+ DAY-6
+ 1.3Sum(LeetCode-15) 
+ 2.Sort Colors(Leetcode-75)
+ 3.Longest Consecutive Sequence(Leetcode-128)
