@@ -21,3 +21,7 @@ DAY-1
  1.3Sum(LeetCode-15) 
  2.Sort Colors(Leetcode-75)
  3.Longest Consecutive Sequence(Leetcode-128)
+ DAY-7
+ 1.Largest Number(Leetcode-179)
+ 2.String Compression(leetcode-443)
+ 3.ZigZag conversion(Leetcode-6)
