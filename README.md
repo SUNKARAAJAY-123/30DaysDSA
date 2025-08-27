@@ -25,3 +25,7 @@ DAY-1
  1.Largest Number(Leetcode-179)
  2.String Compression(leetcode-443)
  3.ZigZag conversion(Leetcode-6)
+ DAY-8
+ 1.Next Greater Element 1(Leetcode-496)
+ 2.Reverse Linked List(Leetcode-206)
+ 3.Add Two numbers(Leetcode-2)
