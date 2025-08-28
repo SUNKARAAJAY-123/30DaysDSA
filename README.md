@@ -29,3 +29,7 @@ DAY-1
  1.Next Greater Element 1(Leetcode-496)
  2.Reverse Linked List(Leetcode-206)
  3.Add Two numbers(Leetcode-2)
+DAY-9
+1.ImplementQueueusingStacks(Leetcode-232)
+2.Number of Recent calls(Leetcode-933)
+3.Design Cricular Queue(leetcode-622)
