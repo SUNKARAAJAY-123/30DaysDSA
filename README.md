@@ -33,3 +33,6 @@ DAY-9
 1.ImplementQueueusingStacks(Leetcode-232)
 2.Number of Recent calls(Leetcode-933)
 3.Design Cricular Queue(leetcode-622)
+DAY-10
+1.Valid palindrome(Leetcode-680)
+2.Repeated DNA(Leetcode-187)
