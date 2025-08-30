@@ -36,3 +36,7 @@ DAY-9
 DAY-10
 1.Valid palindrome(Leetcode-680)
 2.Repeated DNA(Leetcode-187)
+DAY-11
+1.Range sum Query-Immutable(Leetcode-303)
+2.Find Pivot Index(Leetcode-724)
+3.Running sum of 1D Array(Leetcode-1480)
