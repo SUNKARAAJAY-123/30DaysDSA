@@ -40,3 +40,7 @@ DAY-11
 1.Range sum Query-Immutable(Leetcode-303)
 2.Find Pivot Index(Leetcode-724)
 3.Running sum of 1D Array(Leetcode-1480)
+DAY-12
+1.Peak Index in a mountain Array(leetcode-852)
+2.Frist Bad version(Leetcode-278)
+3.Valid perfect Square(Leetcode-367)
