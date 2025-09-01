@@ -41,6 +41,10 @@ DAY-11
 2.Find Pivot Index(Leetcode-724)
 3.Running sum of 1D Array(Leetcode-1480)
 DAY-12
-1.Peak Index in a mountain Array(leetcode-852)
-2.Frist Bad version(Leetcode-278)
-3.Valid perfect Square(Leetcode-367)
+1.Peak Index in a  mountain Array(leetcode-852)
+2.Frist Bad Version(Leetcode-278)
+3.Valid Perfect Square(Leetcode-367)
+DAY-13
+1.Array Partion(Leetcode-561)
+2.How Many Numbers Are Smaller Than the Current Number (Leetcode-1365)
+3.Count Items Matching a Rule(Leetcode-1773)
