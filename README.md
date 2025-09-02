@@ -48,3 +48,7 @@ DAY-13
 1.Array Partion(Leetcode-561)
 2.How Many Numbers Are Smaller Than the Current Number (Leetcode-1365)
 3.Count Items Matching a Rule(Leetcode-1773)
+DAY-14
+1.Arrange Coins (LeetCode 441)
+2.Ship Within Days (LeetCode 1011)
+3.Split Array Largest Sum (LeetCode 410)
