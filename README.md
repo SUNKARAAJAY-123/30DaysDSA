@@ -52,3 +52,8 @@ DAY-14
 1.Arrange Coins (LeetCode 441)
 2.Ship Within Days (LeetCode 1011)
 3.Split Array Largest Sum (LeetCode 410)
+DAY-15
+1.Remove all adjacent duplicate in string II(Leetcode-1209)
+2.Score of parentheses(Leetcode-856)
+3.Remove all adjucent duplicates in string(Leetcode-1047)
+4.Number of recent calls(Leetcode-933)
