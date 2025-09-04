@@ -57,3 +57,7 @@ DAY-15
 2.Score of parentheses(Leetcode-856)
 3.Remove all adjucent duplicates in string(Leetcode-1047)
 4.Number of recent calls(Leetcode-933)
+DAY-16
+1.Lemonade Change(LeetCode-860)
+2.Gas Station(Leetcode-134)
+3.Queue Reconstruction by Height(Leetcode-406)
