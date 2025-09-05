@@ -61,3 +61,7 @@ DAY-16
 1.Lemonade Change(LeetCode-860)
 2.Gas Station(Leetcode-134)
 3.Queue Reconstruction by Height(Leetcode-406)
+DAY-17
+1.Swap Nodes in Pairs(leetcode-24)
+2.Copy List with Random Pointer(Leetcode-138)
+3.Rotate List(Leetcode-61)
