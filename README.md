@@ -65,3 +65,7 @@ DAY-17
 1.Swap Nodes in Pairs(leetcode-24)
 2.Copy List with Random Pointer(Leetcode-138)
 3.Rotate List(Leetcode-61)
+DAY-18
+1.Kth Largest Element in a Stream(Leetcode-703)
+2.K Closest Points to Origin(leetcode-973)
+3.Find Median from Data Stream(Leetcode-295)
