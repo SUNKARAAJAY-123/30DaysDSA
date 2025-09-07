@@ -69,3 +69,7 @@ DAY-18
 1.Kth Largest Element in a Stream(Leetcode-703)
 2.K Closest Points to Origin(leetcode-973)
 3.Find Median from Data Stream(Leetcode-295)
+DAY-19
+1.Remove Duplicates From SortedArray(Leetcode-26)
+2.MergeSortedArray(leetcode-88)
+3.Intersection Of Two Arrays-II(Leetcode-350)
