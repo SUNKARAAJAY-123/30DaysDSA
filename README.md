@@ -73,3 +73,7 @@ DAY-19
 1.Remove Duplicates From SortedArray(Leetcode-26)
 2.MergeSortedArray(leetcode-88)
 3.Intersection Of Two Arrays-II(Leetcode-350)
+DAY-20
+1.Design Linked List (LeetCode-707)
+2.Implement Stack using Queues(LeetCode-225)
+3.Number of Recent Calls(LeetCode-933)
