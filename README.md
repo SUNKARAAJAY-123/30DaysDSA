@@ -77,3 +77,7 @@ DAY-20
 1.Design Linked List (LeetCode-707)
 2.Implement Stack using Queues(LeetCode-225)
 3.Number of Recent Calls(LeetCode-933)
+DAY-21
+1.Subsets II(Leetcode-90)
+2.Combination Sum II(Leetcode-40)
+3.Permutations II(Leetcode-47)
