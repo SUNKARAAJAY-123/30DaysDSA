@@ -81,3 +81,7 @@ DAY-21
 1.Subsets II(Leetcode-90)
 2.Combination Sum II(Leetcode-40)
 3.Permutations II(Leetcode-47)
+DAY-22
+1.Binary Tree Inorder Traversal.(leetcode-94)
+2.Binary Tree Preorder Traversal(Leetcode-144)
+3.Binary Tree Postorder Traversal(Leetcode-145)
