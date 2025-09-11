@@ -85,3 +85,7 @@ DAY-22
 1.Binary Tree Inorder Traversal.(leetcode-94)
 2.Binary Tree Preorder Traversal(Leetcode-144)
 3.Binary Tree Postorder Traversal(Leetcode-145)
+DAY-23
+1.Binary tree level order traversal(Leetcode-102)
+2.Maximum depth of binary tree(Leetcode-104)
+3.Minimum depth of binary tree(Leetcode-111)
