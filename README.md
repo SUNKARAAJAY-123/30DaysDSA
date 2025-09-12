@@ -89,3 +89,7 @@ DAY-23
 1.Binary tree level order traversal(Leetcode-102)
 2.Maximum depth of binary tree(Leetcode-104)
 3.Minimum depth of binary tree(Leetcode-111)
+DAY-24
+1.diameter of binary tree(Leetcode-543)
+2.isSameTree(Leetcode-100)
+3.Symmetric Tre(Leetcode-101)
