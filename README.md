@@ -93,3 +93,7 @@ DAY-24
 1.diameter of binary tree(Leetcode-543)
 2.isSameTree(Leetcode-100)
 3.Symmetric Tre(Leetcode-101)
+DAY-25
+1.sumOfLeftLeaves(Leetcode-404)
+2.rangeSumBST(Leetcode-938)
+3.searchBST(Leetcode-700))
