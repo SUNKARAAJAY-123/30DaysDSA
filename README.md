@@ -96,4 +96,8 @@ DAY-24
 DAY-25
 1.sumOfLeftLeaves(Leetcode-404)
 2.rangeSumBST(Leetcode-938)
-3.searchBST(Leetcode-700))
+3.searchBST(Leetcode-700)
+DAY-26
+1.Keys and Rooms(Leetcode-841)
+2.Island Perimeter(Leetcode-463)
+Max Area of Island(Leetcode-695)
