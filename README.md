@@ -101,3 +101,7 @@ DAY-26
 1.Keys and Rooms(Leetcode-841)
 2.Island Perimeter(Leetcode-463)
 Max Area of Island(Leetcode-695)
+DAY-27
+1.isBipartite(leetcode-785)
+2.Graph Valid Tree(Leetcode-261)
+3.Number of Connected Components in an Undirected Graph(Leetcode-323)
