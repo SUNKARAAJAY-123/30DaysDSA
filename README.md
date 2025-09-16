@@ -105,3 +105,7 @@ DAY-27
 1.isBipartite(leetcode-785)
 2.Graph Valid Tree(Leetcode-261)
 3.Number of Connected Components in an Undirected Graph(Leetcode-323)
+DAY-28
+1.Word Break(Leetcode-139)
+2.Target sum(Leetcode-494)
+3.coin change(Leetcode-322)
