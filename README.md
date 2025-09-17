@@ -109,3 +109,7 @@ DAY-28
 1.Word Break(Leetcode-139)
 2.Target sum(Leetcode-494)
 3.coin change(Leetcode-322)
+DAY-29
+1.uniquePaths problem (Leetcode 62)
+2.longestIncreasingPath (Leetcode 329)
+3.minPathSum (Leetcode 64)
