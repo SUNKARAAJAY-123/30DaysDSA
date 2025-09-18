@@ -113,3 +113,7 @@ DAY-29
 1.uniquePaths problem (Leetcode 62)
 2.longestIncreasingPath (Leetcode 329)
 3.minPathSum (Leetcode 64)
+DAY-30
+1.uniquePathsWithObstacles(Leetcode-63)
+2.minimumTotal (Leetcode-120)
+3.findCheapestPrice (Leetcode-787)
